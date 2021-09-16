@@ -1,0 +1,18 @@
+
+body{
+    background-color: #ede7f6;
+
+}
+.graph{
+    align-items: center;
+    padding-right: 1000px;
+    width: 800px;
+    height: 100px;
+}
+.header{
+    padding-left: 500px;
+}
+.title{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
